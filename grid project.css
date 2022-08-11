@@ -201,3 +201,8 @@ footer a {
     opacity: 0.8;
     transition: 1s;
 }
+@media (max-width: 500px) {
+  .Testimonials {
+    display: block;
+  }
+}
